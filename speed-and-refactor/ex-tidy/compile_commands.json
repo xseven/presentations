@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/projects/3rdparty/presentations/speed-and-refactor/ex-tidy/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE    -D_DLL -D_MT -Xclang --dependent-lib=msvcrt   -o CMakeFiles\\ex-tidy.dir\\main.cpp.obj -c D:\\projects\\3rdparty\\presentations\\speed-and-refactor\\ex-tidy\\main.cpp",
+  "file": "D:/projects/3rdparty/presentations/speed-and-refactor/ex-tidy/main.cpp"
+}
+]
